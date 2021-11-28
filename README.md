@@ -9,7 +9,7 @@ _32 group website project_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/32-grupe-serlokas/
+Site published at: https://giedresavickiene.github.io/2-serlokas/
 
 Design: [Serlokas]( https://giedresavickiene.github.io/2-serlokas/)
 
