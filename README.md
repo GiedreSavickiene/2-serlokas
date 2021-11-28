@@ -21,7 +21,7 @@ Design: [Serlokas]( https://giedresavickiene.github.io/2-serlokas/)
 
 ## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Giedre: [Github](https://github.com/belauzas)
 
 ## Code sample
 
