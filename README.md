@@ -3,7 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Mergaite
+# Serlokas
 
 _32 group website project_
 
@@ -11,8 +11,8 @@ This project is for **educational** porpuses only. Pull request are welcome, but
 
 Site published at: giedresavickiene.github.io/mergaite/
 
-
-Design: [Mergaite]( https://giedresavickiene.github.io/2-serlokas/)
+Design: [Serloaks
+](https://giedresavickiene.github.io/2-serlokas/)
 
 ## Project features
 
@@ -22,7 +22,7 @@ Design: [Mergaite]( https://giedresavickiene.github.io/2-serlokas/)
 
 ## Authors
 
-Giedre: [Github](https://github.com/belauzas)
+Giedre: [Github](https://github.com/GiedreSavickiene/2-serlokas)
 
 ## Code sample
 
