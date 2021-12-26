@@ -9,9 +9,9 @@ _32 group website project_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: giedresavickiene.github.io/mergaite/
+Site published at: https://giedresavickiene.github.io/2-serlokas/
 
-Design: [Serloaks
+Design: [Serlokas]
 ](https://giedresavickiene.github.io/2-serlokas/)
 
 ## Project features
